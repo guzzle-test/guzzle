@@ -1,0 +1,1 @@
+(self.webpackChunkguzzle=self.webpackChunkguzzle||[]).push([[463],{5096:function(u){"use strict";u.exports=JSON.parse('{"allTagsPath":"/guzzle/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/guzzle/blog/tags/docusaurus"}')}}]);
