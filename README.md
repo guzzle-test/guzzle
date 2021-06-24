@@ -27,43 +27,45 @@
 1. If your md file contains images or any assets than give assests location img/<topic>/<sub_topic>.<extension> and change image path in your docs file
 1. For special banner and note we follow below markdown feature 
 
-:::note
+      :::note
 
-The content and title *can* include markdown.
+      The content and title *can* include markdown.
 
-:::
+      :::
 
-:::tip You can specify an optional title
+      :::tip You can specify an optional title
 
-Heads up! Here's a pro-tip.
+      Heads up! Here's a pro-tip.
 
-:::
+      :::
 
-:::info
+      :::info
 
-Useful information.
+      Useful information.
 
-:::
+      :::
 
-:::caution
+      :::caution
 
-Warning! You better pay attention!
+      Warning! You better pay attention!
 
-:::
+      :::
 
-:::danger
+      :::danger
 
-Danger danger, mayday!
+      Danger danger, mayday!
 
-:::
+      :::
 
-# specifying title
+      #### specifying title
 
-:::note Your Title
+      :::note Your Title
 
-The content and title *can* include markdown.
+      The content and title *can* include markdown.
 
-:::
+      :::
+   
+   for more info on special markdown support (https://docusaurus.io/docs/markdown-features/admonitions)
 
 ## Publishing 
 
